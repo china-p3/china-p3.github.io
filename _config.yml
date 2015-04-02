@@ -1,10 +1,7 @@
 # Site settings
 title: ThoughtWorks China Pillar Three
 email: china-p3@thoughtworks.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: At ThoughtWorks, we join the poor and oppressed in their demands for change. Why are there poor in this world where technology has helped create sufficient abundance to provide for basic needs including food, homes and care for all? We are determined to direct the power of technology for the benefit of those who need it most
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ThoughtWorks
