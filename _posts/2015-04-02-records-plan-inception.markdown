@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "国际计划Inception总结"
-date:   2015-03-30 16:00:55
-categories: jekyll update
+title:  "M&E本土探索：国际计划Inception顺利完成"
+date:   2015-04-02 12:00:55
+categories: q1 newsletter
+author: 胡越
 ---
 ThoughtWorks与国际计划于极思周末一期结束后一直保持互动讨论，今年2月9-10日
 时间：2015年2月9-10日
