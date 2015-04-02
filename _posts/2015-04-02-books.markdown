@@ -3,7 +3,6 @@ layout: post
 title:  "读物推荐"
 date:   2015-04-02 10:00:55
 categories: q1 newsletter
-author: 周妮娜
 ---
 [资本主义的真相](http://book.douban.com/subject/6435564/)
 
